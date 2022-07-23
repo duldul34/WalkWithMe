@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WalkWithMe</string>
+    <string name="api_key">AIzaSyBl4CsE8Gp9vgtLIGBPV0gdN_Lq7ioBdlY</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+    <string name="api_url">http://api.kcisa.kr/openapi/service/rest/convergence2017/conver2?serviceKey=3d86d813-6d19-48de-934b-9aa6cdfba169&amp;numOfRows=50&amp;keyword=</string>
+    <string name="service_key">3d86d813-6d19-48de-934b-9aa6cdfba169</string>
+</resources>
